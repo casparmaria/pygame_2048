@@ -8,4 +8,4 @@ no installation necessary. just run file after ```pip install pygame```.
 
 ## Usage
 
-# opens pygame window with 2048. use arrow keys to navigate
+opens pygame window with 2048. use arrow keys to navigate
